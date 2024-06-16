@@ -41,6 +41,10 @@ body {
     color: #ffffff;
 }
 
+::selection{
+    background-color:none;
+    color:none;
+}
 #inp1 {
     width: 240px;
     border: none;
